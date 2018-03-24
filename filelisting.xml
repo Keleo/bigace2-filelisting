@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<content version="1.0">
+
+    <table name="frights">
+        <row>
+            <cid key="true">{CID}</cid>
+            <name key="true">filelisting</name>
+            <defaultvalue>N</defaultvalue>
+            <description>Allow User to administrate the File-Listing settings.</description>
+        </row>
+    </table>  
+
+    <table name="stylesheet">
+        <row>
+            <name key="true">File-Listing</name>
+            <cid key="true">{CID}</cid>
+            <description>Stylesheet for the File-Listing modul.</description>
+            <filename>filelisting/styles.css</filename>
+            <editorcss>dummy_stylesheet</editorcss>
+        </row>
+    </table>  
+
+</content>        

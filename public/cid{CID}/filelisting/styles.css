@@ -1,0 +1,40 @@
+
+#fileListing img { border:0px; }
+#fileListing .entry { background-color:#eeeeee; border:1px solid #cccccc; margin-bottom:10px;
+	padding:4px; min-height:40px; }
+#fileListing .download{ background:transparent url("default.icon.gif") 0px 0px no-repeat;
+	padding-left: 40px; min-height:32px; display:block; font-size:24px;	font-weight: bold; padding-top:2px; }
+#fileListing .caption { padding-left: 5px; display: block; font-size: 13px; margin-top: 3px; }
+#fileListing .stats { padding-left: 5px; display: block; font-size: 11px; margin-top:5px; }
+.fileListingFooter { text-align:right; font-size:11px; color: #ccc; margin-bottom: 5px; }
+.fileListingFooter a { font-size:11px; color: #ccc; text-decoration: none; }
+.fileListingFooter a:hover { font-size:11px; color: #ccc; text-decoration: underline; }
+
+#fileListing .pdf{ background-image:url("pdf.gif"); }
+#fileListing .ai{ background-image:url("ai.gif"); }
+#fileListing .bmp{ background-image:url("bmp.gif"); }
+#fileListing .doc{ background-image:url("doc.gif"); }
+#fileListing .fla{ background-image:url("fla.gif"); }
+#fileListing .htm{ background-image:url("htm.gif"); }
+#fileListing .html{ background-image:url("html.gif"); }
+#fileListing .jpeg{ background-image:url("jpeg.gif"); }
+#fileListing .jpg{ background-image:url("jpg.gif"); }
+#fileListing .js{ background-image:url("js.gif"); }
+#fileListing .mp3{ background-image:url("mp.gif"); }
+#fileListing .ppt{ background-image:url("ppt.gif"); }
+#fileListing .swt{ background-image:url("swt.gif"); }
+#fileListing .vsd{ background-image:url("vsd.gif"); }
+#fileListing .xml{ background-image:url("xml.gif"); }
+#fileListing .avi{ background-image:url("avi.gif"); }
+#fileListing .cs{ background-image:url("cs.gif"); }
+#fileListing .dll{ background-image:url("dll.gif"); }
+#fileListing .exe{ background-image:url("exe.gif"); }
+#fileListing .gif{ background-image:url("gif.gif"); }
+#fileListing .mdb{ background-image:url("mdb.gif"); }
+#fileListing .pdf{ background-image:url("pdf.gif"); }
+#fileListing .rdp{ background-image:url("rdp.gif"); }
+#fileListing .swf{ background-image:url("swf.gif"); }
+#fileListing .txt{ background-image:url("txt.gif"); }
+#fileListing .xls{ background-image:url("xls.gif"); }  
+#fileListing .zip{ background-image:url("zip.gif"); }
+

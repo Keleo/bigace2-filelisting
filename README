@@ -1,0 +1,18 @@
+
+By installing the "File-Listing" BIGACE extension, you accept the following license:
+<hr/><a target="_blank" rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">
+<img alt="Creative Commons License" border="0" align="left" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" />
+</a>
+<span xmlns:dc="http://purl.org/dc/elements/1.1/" href="http://purl.org/dc/dcmitype/InteractiveResource" property="dc:title" rel="dc:type">File-Listing</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="www.keleo.de" property="cc:attributionName" rel="cc:attributionURL">www.keleo.de</a> is released under the <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-Share Alike 3.0 Unported License</a>.
+
+<b>You are NOT allowed to remove or change the copyright link (including the HTML), displayed in the modules footer.</b>
+<hr />
+Version 1.1:
+=============
+- added downloads
+- added date of last change 
+- fixed backlink
+
+Version 1.0:
+=============
+- initial release
